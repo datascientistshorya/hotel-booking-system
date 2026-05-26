@@ -37,8 +37,11 @@ This project demonstrates how data science and machine learning can directly imp
 ## 2. Exploratory Data Analysis (EDA)
 
 ### Univariate Analysis
-### DEMO 
-![Univariate Demo](GIFs/Univariate Demo.gif)
+### DEMO
+
+<p align="center">
+  <img src="GIFs/Univariate Demo.gif" width="700"/>
+</p>
 
 Performed detailed analysis of individual features to understand:
 
@@ -52,9 +55,11 @@ Performed detailed analysis of individual features to understand:
 * Market segments and booking channels
 
 ### Bivariate Analysis
-## 🎥 Preprocessing Demo
+### DEMO
 
-![Preprocessing Demo](visualization/classification_model.gif.gif)
+<p align="center">
+  <img src="GIFs/bivariate Demo.gif" width="700"/>
+</p>
 
 Analyzed relationships between features and booking cancellations:
 
@@ -66,9 +71,11 @@ Analyzed relationships between features and booking cancellations:
 * Pricing influence on cancellation probability
 
 ### Multivariate Analysis
-## 🎥 Preprocessing Demo
+### DEMO
 
-![Preprocessing Demo](visualization/classification_model.gif.gif)
+<p align="center">
+  <img src="GIFs/Multivariate Demo.gif" width="700"/>
+</p>
 
 Studied combined feature interactions to uncover:
 
