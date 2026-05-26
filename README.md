@@ -37,18 +37,24 @@ This project demonstrates how data science and machine learning can directly imp
 ## 2. Exploratory Data Analysis (EDA)
 
 ### Univariate Analysis
+### DEMO 
+![Univariate Demo](GIFs/Univariate Demo.gif)
 
 Performed detailed analysis of individual features to understand:
 
 * Customer demographics
 * Booking behavior
 * Stay duration patterns
+* 
 * Seasonal trends
 * Pricing distribution (ADR)
 * Room allocation behavior
 * Market segments and booking channels
 
 ### Bivariate Analysis
+## 🎥 Preprocessing Demo
+
+![Preprocessing Demo](visualization/classification_model.gif.gif)
 
 Analyzed relationships between features and booking cancellations:
 
@@ -60,6 +66,9 @@ Analyzed relationships between features and booking cancellations:
 * Pricing influence on cancellation probability
 
 ### Multivariate Analysis
+## 🎥 Preprocessing Demo
+
+![Preprocessing Demo](visualization/classification_model.gif.gif)
 
 Studied combined feature interactions to uncover:
 
